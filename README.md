@@ -6,3 +6,6 @@ Day1:
   
 Day2:
      Completed week1 course on coursera which gives important information on graphlab package
+Day3:
+completed part of week2 course in coursera and learned about analysis.
+N works on problem solving
