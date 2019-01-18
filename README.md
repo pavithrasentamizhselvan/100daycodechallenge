@@ -9,3 +9,5 @@ Day2:
 Day3:
 completed part of week2 course in coursera and learned about analysis.
 N works on problem solving
+Day4:
+  Learned week3 courses on coursera machine learning and created simple diabetic predicting system
