@@ -1,3 +1,5 @@
+#change * symbol into char that makes word to palindrome
+
 str=['r','*','d','a','r']
 i=0
 print(str)
